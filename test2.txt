@@ -1,5 +1,6 @@
 This is second demo text
+inserted line
 AAAAA
-BBBBBBBBBB
+BBBBBBBBBB //edited line
 CCCCC
 THE END
