@@ -1,6 +1,9 @@
 A
 B
 C
+D
+E
+F
 G
 H
 I
@@ -9,3 +12,6 @@ K
 L
 S
 T
+Y
+Z
+.
