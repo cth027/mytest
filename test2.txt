@@ -1,5 +1,7 @@
 This is second demo text
 new insterted line for the second time (1)
 AAAAA
-BBBBBBBBBB //edited lineCCCCC
+BBBBBBBBBB //edited line
+additional line (1)
+CCCCC  // additional comment (1)
 THE END
