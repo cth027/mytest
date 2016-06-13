@@ -4,4 +4,5 @@ AAAAA
 BBBBBBBBBB //edited line
 additional line (1)
 CCCCC  // additional comment (1)
+patched for beta
 THE END
