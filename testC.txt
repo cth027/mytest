@@ -4,6 +4,7 @@ C
 D
 E
 F
+entre F et G
 G
 H
 I
