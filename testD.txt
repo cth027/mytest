@@ -1,3 +1,4 @@
 Ceci est un exemple
 de plus pour 
 un petit fichier ajouté dans une branche
+avec un correctif
