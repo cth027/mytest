@@ -1,6 +1,6 @@
 This is a first small demo text
 A
 B
-BC // inserted
+BC // inserted UPDATED
 C
 D
